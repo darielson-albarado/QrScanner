@@ -1,16 +1,15 @@
-# leitor_qrcode
+# QrScanner - Scanner de Qrcode e Código de Barras - Versão 1.0.0
+### Autores
+- **Darielson Albarado**: Arquitetura e Back-end
+- [**S3NTIN3LA**](https://github.com/S3NTIN3LA): Front-end
 
-A new Flutter project.
+## Funcionalidades
 
-## Getting Started
+- Ler a partir da câmera 
+- Ler a partir de imagens
 
-This project is a starting point for a Flutter application.
+## Funcionalidades da próxima versão
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Histórico de códigos escaneados
+- Criar novo Qrcode
+- Exibir Anúncios.
