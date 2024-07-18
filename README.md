@@ -13,3 +13,6 @@
 - Histórico de códigos escaneados
 - Criar novo Qrcode
 - Exibir Anúncios.
+
+## Baixe na PlayStore
+https://play.google.com/store/apps/details?id=com.qrscanner.appbr&pli=1
